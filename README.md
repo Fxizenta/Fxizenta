@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Fxizenta
-- ✨ I'm a CTFer from SCNU , concentrating on Web and Misc
+- ✨ I used to study at SCNU, currently studying at SDU
+- 🧐 I'm a CTfer concentrating on Web and Misc
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning Android Security
 
