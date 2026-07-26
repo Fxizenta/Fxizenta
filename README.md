@@ -1,4 +1,4 @@
-- 👋 Hi, 👋 Hi, I’m @Fxizenta, a PhD student at CUHK and a cybersecurity researcher.
+- 👋 Hi, I’m @Fxizenta, a PhD student at CUHK and a cybersecurity researcher.
 - 🔐 I’m interested in **cybersecurity, vulnerability research, program analysis, and security automation**.
 - 📱 I’m currently exploring **Android Security** and **Binary Security**.
 - 📚 I enjoy turning security research ideas into practical tools and reproducible systems.
