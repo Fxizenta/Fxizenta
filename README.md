@@ -2,7 +2,7 @@
 - 🔐 I’m interested in **cybersecurity, vulnerability research, program analysis, and security automation**.
 - 📱 I’m currently exploring **Android Security** and **Binary Security**.
 - 📚 I enjoy turning security research ideas into practical tools and reproducible systems.
-- 🏴 I was formerly a CTFer, mainly focusing on Web Security and Miscellaneous challenges.
+- 🏴 I was formerly a CTFer, mainly focusing on Web Security and Misc challenges.
 - 📫 Feel free to explore my repositories and contact me for research discussions or potential collaborations.
 
 
